@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Wheel.PcbDoc   19-Jun-24  17:18:19
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Wheel-RoundHoles.TXT
+ASCII SlotHoles File : Wheel-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             39        PTH        136.61mm (5.38inch)
+T2      0.33mm (13mil)                                            Round             16        PTH        18.00mm (0.71inch)
+T3      0.5mm (20mil)                                             Round             2         PTH        2.56mm (0.10inch)
+T4      0.5mm (20mil)                                             Slot              2         PTH        19.55mm (0.77inch)
+T5      0.6mm (24mil)                                             Slot              2         PTH        19.36mm (0.76inch)
+T6      1.6mm (63mil)                                             Round             2         PTH        1.90mm (0.07inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              63
+
+Total Processing Time (hh:mm:ss) : 00:00:00
